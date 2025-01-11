@@ -1,7 +1,9 @@
 📊 Data Cleaning Tool
+
 Welcome to the Data Cleaning Tool, an interactive desktop application designed for organizing, cleaning, and analyzing data effectively. This project provides a user-friendly interface for handling messy datasets, preparing them for analysis, and deriving actionable insights with the power of Python!
 
 🎯 Purpose
+
 The Data Cleaning Tool was built to simplify the process of:
 
 Data Preparation: Uploading and consolidating multiple datasets (CSV or JSON format).
